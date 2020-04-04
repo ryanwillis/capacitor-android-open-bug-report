@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-android-open-bug-report",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

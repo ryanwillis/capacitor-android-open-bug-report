@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "capacitor-android-open-bug-report",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
